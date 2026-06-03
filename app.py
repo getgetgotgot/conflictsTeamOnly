@@ -2,7 +2,8 @@ import streamlit as st
 import plotly.express as px
 import pandas as pd
 import scipy as stats
-country_coverage = pd.read_csv('C://Users//Ana//Downloads//coverage_with_scores_filter.csv')
+url = 'https://raw.githubusercontent.com/getgetgotgot/conflictsTeamOnly/27_May/coverage_with_scores_filter.csv'
+country_coverage = pd.read_csv(url)
 
 
 st.title("April 2026 Conflict Invisibility Preliminary Analysis")
