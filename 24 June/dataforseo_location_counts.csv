@@ -1,0 +1,19 @@
+location,country,country_code,keyword_query,article_count
+Jabaliyah,Israel,ISR,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Israel"" AND ""Jabaliyah""",0
+Khan Younis,Israel,ISR,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Israel"" AND ""Khan Younis""",11100
+Mifidoun,Lebanon,LBN,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Lebanon"" AND ""Mifidoun""",0
+Beit Lahiya,Israel,ISR,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Israel"" AND ""Beit Lahiya""",774
+Dayr Jarir,Israel,ISR,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Israel"" AND ""Dayr Jarir""",164
+Deir al-Balah,Israel,ISR,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Israel"" AND ""Deir al-Balah""",4670
+Beit Yahoun,Lebanon,LBN,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Lebanon"" AND ""Beit Yahoun""",241
+Maaroub,Lebanon,LBN,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Lebanon"" AND ""Maaroub""",502
+Rafah,Israel,ISR,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Israel"" AND ""Rafah""",23500
+Gaza,Israel,ISR,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Israel"" AND ""Gaza""",3370000
+Chabriha,Lebanon,LBN,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Lebanon"" AND ""Chabriha""",1
+Arab Salim,Lebanon,LBN,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Lebanon"" AND ""Arab Salim""",558
+Deir Ntar,Lebanon,LBN,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Lebanon"" AND ""Deir Ntar""",7
+al-Shati,Israel,ISR,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Israel"" AND ""al-Shati""",733
+Beit Duqqu,Israel,ISR,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Israel"" AND ""Beit Duqqu""",29
+Qadmus,Lebanon,LBN,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Lebanon"" AND ""Qadmus""",18
+Ansariyeh,Lebanon,LBN,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Lebanon"" AND ""Ansariyeh""",123
+Toluca,Mexico,MEX,"(conflict OR war OR attack OR armed OR terror OR bomb OR violence OR strike OR protest) AND ""Mexico"" AND ""Toluca""",4410
