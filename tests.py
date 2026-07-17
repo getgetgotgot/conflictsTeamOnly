@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 
 # Load data
 gdelt_df = pd.read_csv("gdelt_result_1.csv")
-news_df = pd.read_csv("dataforseo_result_1.csv")")
+news_df = pd.read_csv("dataforseo_result_1.csv")
 
 st.title("GDELT vs DataForSEO")
 
