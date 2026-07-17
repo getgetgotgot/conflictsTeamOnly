@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 st.set_page_config(layout="wide")
 
 # Load data
-gdelt_df = pd.read_csv("C:/Users/Ana/Downloads/gdelt_result_1.csv")
-news_df = pd.read_csv("C:/Users/Ana/Downloads/dataforseo_result_1.csv")
+gdelt_df = pd.read_csv("gdelt_result_1.csv")
+news_df = pd.read_csv("dataforseo_result_1.csv")")
 
 st.title("GDELT vs DataForSEO")
 
