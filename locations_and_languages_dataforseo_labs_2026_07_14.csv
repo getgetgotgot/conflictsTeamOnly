@@ -1,0 +1,117 @@
+location_code,location_name,location_code_parent,country_iso_code,location_type,available_sources,language_name,language_code,keywords,serps
+2008,Albania,,AL,Country,google,Albanian,sq,2034848,211293
+2012,Algeria,,DZ,Country,google,French,fr,31883757,1287901
+2012,Algeria,,DZ,Country,google,Arabic,ar,16733969,734905
+2024,Angola,,AO,Country,google,Portuguese,pt,19247002,1251462
+2031,Azerbaijan,,AZ,Country,google,Azeri,az,17023081,364225
+2032,Argentina,,AR,Country,google,Spanish,es,69205958,3582314
+2036,Australia,,AU,Country,google,English,en,293473135,16242600
+2040,Austria,,AT,Country,google,German,de,66294369,2736994
+2048,Bahrain,,BH,Country,google,Arabic,ar,15273079,408204
+2050,Bangladesh,,BD,Country,google,Bengali,bn,37204191,1623798
+2051,Armenia,,AM,Country,google,Armenian,hy,4271438,102269
+2056,Belgium,,BE,Country,google,French,fr,31074966,241064
+2056,Belgium,,BE,Country,google,Dutch,nl,75783892,3090775
+2056,Belgium,,BE,Country,google,German,de,23740629,604461
+2068,Bolivia,,BO,Country,google,Spanish,es,9852794,292544
+2070,"Bosnia and Herzegovina",,BA,Country,google,Bosnian,bs,3048223,201970
+2076,Brazil,,BR,Country,google,Portuguese,pt,187056620,12451346
+2100,Bulgaria,,BG,Country,google,Bulgarian,bg,9532663,383305
+2104,"Myanmar (Burma)",,MM,Country,google,English,en,17331054,597586
+2116,Cambodia,,KH,Country,google,English,en,17766425,580495
+2120,Cameroon,,CM,Country,google,French,fr,8467019,362269
+2124,Canada,,CA,Country,google,English,en,330726858,16878600
+2124,Canada,,CA,Country,google,French,fr,189043701,7897183
+2144,"Sri Lanka",,LK,Country,google,English,en,19448474,568067
+2152,Chile,,CL,Country,google,Spanish,es,50233728,1718537
+2158,Taiwan,,TW,Region,google,"Chinese (Traditional)",zh-TW,60610263,3643598
+2170,Colombia,,CO,Country,google,Spanish,es,60914337,2034928
+2188,"Costa Rica",,CR,Country,google,Spanish,es,15977443,479660
+2191,Croatia,,HR,Country,google,Croatian,hr,9243178,375762
+2196,Cyprus,,CY,Country,google,Greek,el,20623797,283812
+2196,Cyprus,,CY,Country,google,English,en,16681903,283920
+2203,Czechia,,CZ,Country,google,Czech,cs,25919488,1814329
+2208,Denmark,,DK,Country,google,Danish,da,36763110,2323036
+2218,Ecuador,,EC,Country,google,Spanish,es,23193374,746249
+2222,"El Salvador",,SV,Country,google,Spanish,es,8707087,198450
+2233,Estonia,,EE,Country,google,Estonian,et,4790206,186304
+2246,Finland,,FI,Country,google,Finnish,fi,28896456,1702227
+2250,France,,FR,Country,google,French,fr,240748832,17573869
+2276,Germany,,DE,Country,google,German,de,291853284,24247309
+2288,Ghana,,GH,Country,google,English,en,13848480,459723
+2300,Greece,,GR,Country,google,Greek,el,26282163,1455907
+2300,Greece,,GR,Country,google,English,en,12053153,705983
+2320,Guatemala,,GT,Country,google,Spanish,es,15872282,492341
+2344,"Hong Kong",,HK,Region,google,English,en,34549111,1159353
+2344,"Hong Kong",,HK,Region,google,"Chinese (Traditional)",zh-TW,68710296,2932513
+2348,Hungary,,HU,Country,google,Hungarian,hu,18258480,919658
+2356,India,,IN,Country,google,English,en,309299613,15192945
+2356,India,,IN,Country,google,Hindi,hi,154721444,12108429
+2360,Indonesia,,ID,Country,google,English,en,73410137,3851340
+2360,Indonesia,,ID,Country,google,Indonesian,id,111810824,6345496
+2372,Ireland,,IE,Country,google,English,en,65671335,2135620
+2376,Israel,,IL,Country,google,Hebrew,he,32150938,1694279
+2376,Israel,,IL,Country,google,Arabic,ar,20058007,568571
+2380,Italy,,IT,Country,google,Italian,it,152248447,10466863
+2384,"Cote d'Ivoire",,CI,Country,google,French,fr,10701641,459711
+2392,Japan,,JP,Country,google,Japanese,ja,310316954,17380369
+2398,Kazakhstan,,KZ,Country,google,Russian,ru,19291599,789491
+2400,Jordan,,JO,Country,google,Arabic,ar,10762438,405377
+2404,Kenya,,KE,Country,google,English,en,28134806,1133215
+2410,"South Korea",,KR,Country,google,Korean,ko,71403618,7665497
+2428,Latvia,,LV,Country,google,Latvian,lv,11533142,389507
+2440,Lithuania,,LT,Country,google,Lithuanian,lt,8944383,565829
+2458,Malaysia,,MY,Country,google,English,en,52468219,1726494
+2458,Malaysia,,MY,Country,google,Malay,ms,48347905,2186606
+2470,Malta,,MT,Country,google,English,en,4157282,73013
+2484,Mexico,,MX,Country,google,Spanish,es,117599852,6238619
+2492,Monaco,,MC,Country,google,French,fr,1133600,120544
+2498,Moldova,,MD,Country,google,Romanian,ro,2952161,196452
+2504,Morocco,,MA,Country,google,Arabic,ar,17752640,735705
+2504,Morocco,,MA,Country,google,French,fr,11079616,588969
+2528,Netherlands,,NL,Country,google,Dutch,nl,118000113,6513087
+2554,"New Zealand",,NZ,Country,google,English,en,41239943,1439730
+2558,Nicaragua,,NI,Country,google,Spanish,es,4861932,125615
+2566,Nigeria,,NG,Country,google,English,en,25806780,733899
+2578,Norway,,NO,Country,google,"Norwegian (Bokmål)",nb,39089247,2706726
+2586,Pakistan,,PK,Country,google,English,en,51693617,1177692
+2586,Pakistan,,PK,Country,google,Urdu,ur,21747189,277652
+2591,Panama,,PA,Country,google,Spanish,es,11347168,594259
+2600,Paraguay,,PY,Country,google,Spanish,es,8225826,198309
+2604,Peru,,PE,Country,google,Spanish,es,44117025,1473052
+2608,Philippines,,PH,Country,google,English,en,50984122,1644574
+2608,Philippines,,PH,Country,google,Tagalog,tl,44681977,1696569
+2616,Poland,,PL,Country,google,Polish,pl,56623188,3194772
+2620,Portugal,,PT,Country,google,Portuguese,pt,39175524,1596619
+2642,Romania,,RO,Country,google,Romanian,ro,24992203,1377837
+2682,"Saudi Arabia",,SA,Country,"google,amazon",Arabic,ar,55100690,3447878
+2686,Senegal,,SN,Country,google,French,fr,6221872,243945
+2688,Serbia,,RS,Country,google,Serbian,sr,7350610,286672
+2702,Singapore,,SG,Country,google,English,en,74260191,2189219
+2702,Singapore,,SG,Country,google,"Chinese (Simplified)",zh-CN,33003900,612446
+2703,Slovakia,,SK,Country,google,Slovak,sk,12616291,657661
+2704,Vietnam,,VN,Country,google,English,en,20366472,581288
+2704,Vietnam,,VN,Country,google,Vietnamese,vi,41013270,1533692
+2705,Slovenia,,SI,Country,google,Slovenian,sl,7798963,381765
+2710,"South Africa",,ZA,Country,google,English,en,62321283,2183177
+2724,Spain,,ES,Country,google,Spanish,es,183721204,8714900
+2752,Sweden,,SE,Country,google,Swedish,sv,49434560,3384921
+2756,Switzerland,,CH,Country,google,German,de,88248879,3147878
+2756,Switzerland,,CH,Country,google,French,fr,82324153,1543109
+2756,Switzerland,,CH,Country,google,Italian,it,16891740,703260
+2764,Thailand,,TH,Country,google,Thai,th,52306841,2977999
+2784,"United Arab Emirates",,AE,Country,"google,amazon",Arabic,ar,41117035,1231098
+2784,"United Arab Emirates",,AE,Country,google,English,en,51846848,1173575
+2788,Tunisia,,TN,Country,google,Arabic,ar,11389251,387412
+2792,Turkiye,,TR,Country,google,Turkish,tr,59998293,3331970
+2804,Ukraine,,UA,Country,google,Ukrainian,uk,146570474,10198505
+2804,Ukraine,,UA,Country,google,Russian,ru,120985807,3370637
+2807,"North Macedonia",,MK,Country,google,Macedonian,mk,10359616,196169
+2818,Egypt,,EG,Country,"google,amazon",Arabic,ar,39513649,2252664
+2818,Egypt,,EG,Country,google,English,en,25564315,730818
+2826,"United Kingdom",,GB,Country,google,English,en,481326143,34036267
+2840,"United States",,US,Country,"google,bing,amazon",English,en,1253479176,179379957
+2840,"United States",,US,Country,google,Spanish,es,175672966,5458153
+2854,"Burkina Faso",,BF,Country,google,French,fr,5857564,244718
+2858,Uruguay,,UY,Country,google,Spanish,es,14265597,382892
+2862,Venezuela,,VE,Country,google,Spanish,es,51463032,2273851
