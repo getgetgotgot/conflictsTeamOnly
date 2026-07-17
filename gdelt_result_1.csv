@@ -1,0 +1,15 @@
+tier,location,country,total_deaths,date_start,date_end,query_string,total_article_count,url,date_published,related_to_conflict_in_area,related_to_specific_event,gdelt_article_count
+LOW,Bilanga,Burkina Faso,4,5/23/2026,6/7/2026,conflict Bilanga after:2026-05-23 before:2026-06-07,0,N/A,N/A,N/A,N/A,0
+MEDIUM,Nabatiye,Lebanon,1,5/31/2026,6/15/2026,conflict Nabatiye after:2026-05-31 before:2026-06-15,3,https://en.mercopress.com/2026/06/02/israel-and-hezbollah-keep-firing-despite-trump-s-announcement-of-an-end-to-hostilities,2.02606E+13,Yes,No,3
+MEDIUM,Nabatiye,Lebanon,1,5/31/2026,6/15/2026,conflict Nabatiye after:2026-05-31 before:2026-06-15,3,https://promptnewsonline.com/rise-of-antisemitism-and-desecration-of-holy-images/,2.02606E+13,Yes,No,3
+MEDIUM,Nabatiye,Lebanon,1,5/31/2026,6/15/2026,conflict Nabatiye after:2026-05-31 before:2026-06-15,3,https://www.middleeasteye.net/live-blog/live-blog-update/un-peacekeepers-say-strike-violated-lebanons-sovereignty,2.02606E+13,Yes,No,3
+HIGH,Bannu,Pakistan,5,5/16/2026,5/31/2026,conflict Bannu after:2026-05-16 before:2026-05-31,98,https://tribune.com.pk/story/2609946/naqvi-pti-meeting-sparks-controversy,2.02605E+13,Yes,No,3
+HIGH,Bannu,Pakistan,5,5/16/2026,5/31/2026,conflict Bannu after:2026-05-16 before:2026-05-31,98,https://tribune.com.pk/story/2609956/11-terrorists-neutralised-in-north-waziristan-ibo,2.02605E+13,Yes,Yes,3
+HIGH,Bannu,Pakistan,5,5/16/2026,5/31/2026,conflict Bannu after:2026-05-16 before:2026-05-31,98,https://tribune.com.pk/story/2609794/25-terrorists-neutralised-in-bannu-operation,2.02605E+13,Yes,Yes,3
+HIGH,Bannu,Pakistan,5,5/16/2026,5/31/2026,conflict Bannu after:2026-05-16 before:2026-05-31,98,https://tribune.com.pk/story/2609744/10kg-home-made-bomb-defused-in-bannu,2.02605E+13,Yes,No,3
+HIGH,Bannu,Pakistan,5,5/16/2026,5/31/2026,conflict Bannu after:2026-05-16 before:2026-05-31,98,https://www.pakistantoday.com.pk/2026/05/25/bannu-police-receive-modern-surveillance-combat-equipment,2.02605E+13,No*,No,3
+HIGH,Bannu,Pakistan,5,5/16/2026,5/31/2026,conflict Bannu after:2026-05-16 before:2026-05-31,98,https://newsmakers.pk/president-lauds-kp-police-ctd-for-successful-operation-against-terrorists/,2.02605E+13,Yes,Yes,3
+HIGH,Bannu,Pakistan,5,5/16/2026,5/31/2026,conflict Bannu after:2026-05-16 before:2026-05-31,98,https://www.radio.gov.pk/18-05-2026/kp-people-reject-misleading-narrative-of-fitna-al-khawarij,2.02605E+13,No*,No,3
+HIGH,Bannu,Pakistan,5,5/16/2026,5/31/2026,conflict Bannu after:2026-05-16 before:2026-05-31,98,https://www.express.pk/story/2813563/the-people-of-khyber-pakhtunkhwa-have-completely-rejected-the-misleading-narrative-of-fitna-al-khawarij-2813563,2.02605E+13,No*,No,98
+HIGH,Bannu,Pakistan,5,5/16/2026,5/31/2026,conflict Bannu after:2026-05-16 before:2026-05-31,98,https://www.rediff.com/news/report/23-terrorists-killed-in-pakistan-operations/20260522.htm,2.02605E+13,Yes,Yes,98
+HIGH,Bannu,Pakistan,5,5/16/2026,5/31/2026,conflict Bannu after:2026-05-16 before:2026-05-31,98,https://english.news.cn/20260522/ec1eea3d7c1c48fcb38687d3cf82e21e/c.html,2.02605E+13,Yes,Yes,98
