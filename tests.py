@@ -76,8 +76,8 @@ with tab1:
     - Manually reviewed:
       - All retrieved results (or the first 10 if more than 10)
       - Whether each article relates to:
-        - the conflict in the selected area
-        - the specific UCDP event
+        - the conflict in the selected area, in general 
+        - the specific UCDP event found in one particular row, as per the description in the dataset
     """)
 
     # ---------------------------
