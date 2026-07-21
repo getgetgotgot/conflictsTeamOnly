@@ -4,11 +4,11 @@ import matplotlib.pyplot as plt
 st.set_page_config(layout="wide")
 
 # Load data
-gdelt_df = pd.read_csv("C://Users//Ana//Downloads//gdelt_result_1.csv")
-news_df = pd.read_csv("C://Users//Ana//Downloads//dataforseo_result_1.csv")
+gdelt_df = pd.read_csv("https://raw.githubusercontent.com/getgetgotgot/conflictsTeamOnly/main/gdelt_result_1.csv")
+news_df = pd.read_csv("https://raw.githubusercontent.com/getgetgotgot/conflictsTeamOnly/main/dataforseo_result_1.csv")
 
-gdelt_df_2 = pd.read_csv("C://Users//Ana//Downloads//gdelt_result_2.csv")
-news_df_2 = pd.read_csv("C://Users//Ana//Downloads//dataforseo_result_2_2.csv")
+gdelt_df_2 = pd.read_csv("https://raw.githubusercontent.com/getgetgotgot/conflictsTeamOnly/main/gdelt_result_2.csv")
+news_df_2 = pd.read_csv("https://raw.githubusercontent.com/getgetgotgot/conflictsTeamOnly/main/dataforseo_result_2_2.csv")
 
 st.title("GDELT vs DataForSEO")
 
