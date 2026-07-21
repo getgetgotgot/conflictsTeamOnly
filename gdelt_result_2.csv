@@ -1,0 +1,14 @@
+tier,location,country,total_deaths,date_start,date_end,query_string,total_article_count,url,date_published,related_to_conflict_in_area,related_to_specific_event
+LOW,l'Estère,Haiti,3,5/20/2026,6/4/2026,conflict l'Estère after:2026-05-20 before:2026-06-04,0,,,,
+MEDIUM,Az Zabari,Syria,1,5/17/2026,6/1/2026,conflict Az Zabari after:2026-05-17 before:2026-06-01,2,https://sana.sy/locals/2487038/,2.02605E+13,No,No
+MEDIUM,Az Zabari,Syria,1,5/17/2026,6/1/2026,conflict Az Zabari after:2026-05-17 before:2026-06-01,2,https://sana.sy/locals/2487714/,2.02605E+13,No,No
+HIGH,Nablus,Israel,0,5/3/2026,5/18/2026,conflict Nablus after:2026-05-03 before:2026-05-18,589,https://arabic.euronews.com/2026/05/15/a-secret-message-from-the-leadership-of-the-qassam-brigades-to-hassan-nasrallah-on-the-m,2.02605E+13,Yes,No**
+HIGH,Nablus,Israel,0,5/3/2026,5/18/2026,conflict Nablus after:2026-05-03 before:2026-05-18,589,https://dogruhaber.com.tr/baris-kurulu-ne-istiyor,2.02605E+13,Yes,No**
+HIGH,Nablus,Israel,0,5/3/2026,5/18/2026,conflict Nablus after:2026-05-03 before:2026-05-18,589,https://naharnet.com/stories/en/320162-israel-kills-15-year-old-teen-in-west-bank-for-throwing-stones,2.02605E+13,Yes,Yes
+HIGH,Nablus,Israel,0,5/3/2026,5/18/2026,conflict Nablus after:2026-05-03 before:2026-05-18,589,https://thedailyblog.co.nz/in-occupied-palestine-14-april-2026-2/,2.02605E+13,No,No
+HIGH,Nablus,Israel,0,5/3/2026,5/18/2026,conflict Nablus after:2026-05-03 before:2026-05-18,589,https://www.24heures.ch/direct-moyen-orient-trump-dit-quil-ne-restera-plus-rien-de-liran-si-teheran-naccepte-pas-un-accord-345431426738,2.02605E+13,No,No
+HIGH,Nablus,Israel,0,5/3/2026,5/18/2026,conflict Nablus after:2026-05-03 before:2026-05-18,589,https://imemc.org/article/israeli-forces-invade-multiple-areas-across-west-bank-2/,2.02605E+13,Yes,Yes
+HIGH,Nablus,Israel,0,5/3/2026,5/18/2026,conflict Nablus after:2026-05-03 before:2026-05-18,589,https://wrp.org.uk/features/huge-increase-in-settlement-expansion/,2.02605E+13,Yes,No**
+HIGH,Nablus,Israel,0,5/3/2026,5/18/2026,conflict Nablus after:2026-05-03 before:2026-05-18,589,https://www.almanar.com.lb/article/863222/,2.02605E+13,Yes,Yes
+HIGH,Nablus,Israel,0,5/3/2026,5/18/2026,conflict Nablus after:2026-05-03 before:2026-05-18,589,https://www.almanar.com.lb/article/831412/,2.02605E+13,Yes,Yes
+HIGH,Nablus,Israel,0,5/3/2026,5/18/2026,conflict Nablus after:2026-05-03 before:2026-05-18,589,https://english.wafa.ps/Pages/Details/170618,2.02605E+13,Yes,No**
